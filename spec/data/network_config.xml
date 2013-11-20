@@ -1,0 +1,15 @@
+<PolycomIPPhone>
+  <NetworkConfiguration>
+    <DHCPServer>10.0.3.3</DHCPServer>
+    <MACAddress>0004f2839af9</MACAddress>
+    <DNSSuffix>fullspectrum.net</DNSSuffix>
+    <IPAddress>10.0.3.94</IPAddress>
+    <SubnetMask>255.255.255.0</SubnetMask>
+    <ProvServer>10.0.3.203</ProvServer>
+    <DefaultRouter>10.0.3.1</DefaultRouter>
+    <DNSServer1>10.130.103.40</DNSServer1>
+    <DNSServer2>0.0.0.0</DNSServer2>
+    <VLANID></VLANID>
+    <DHCPEnabled>Yes</DHCPEnabled>
+  </NetworkConfiguration>
+</PolycomIPPhone>

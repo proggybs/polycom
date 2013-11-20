@@ -1,0 +1,18 @@
+<PolycomIPPhone>
+  <CallLineInfo>
+    <LineKeyNum>1</LineKeyNum>
+    <LineDirNum>398</LineDirNum>
+    <LineState>Active</LineState>
+    <CallInfo>
+      <CallReference>e04278</CallReference>
+      <CallState>Setup</CallState>
+      <CallType>Outgoing</CallType>
+      <UIAppearanceIndex>1*</UIAppearanceIndex>
+      <CalledPartyName></CalledPartyName>
+      <CalledPartyDirNum></CalledPartyDirNum>
+      <CallingPartyName>398</CallingPartyName>
+      <CallingPartyDirNum>sip:398@10.0.3.15</CallingPartyDirNum>
+      <CallDuration>0</CallDuration>
+    </CallInfo>
+  </CallLineInfo>
+</PolycomIPPhone>
